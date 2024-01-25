@@ -1,0 +1,13 @@
+.navbar {
+    height: 70px;
+    outline: solid 2px red;
+
+    ul {
+        outline: blue solid 2px;
+
+        li {
+            outline: green 1px solid;
+            margin: 10px;
+        }
+    }
+}

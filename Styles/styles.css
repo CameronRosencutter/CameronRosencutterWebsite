@@ -1,0 +1,11 @@
+.navbar {
+  height: 70px;
+  outline: solid 2px red;
+}
+.navbar ul {
+  outline: blue solid 2px;
+}
+.navbar ul li {
+  outline: green 1px solid;
+  margin: 10px;
+}/*# sourceMappingURL=styles.css.map */
